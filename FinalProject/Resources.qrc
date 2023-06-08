@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>cd.ico</file>
+        <file>cd.rc</file>
+    </qresource>
+</RCC>

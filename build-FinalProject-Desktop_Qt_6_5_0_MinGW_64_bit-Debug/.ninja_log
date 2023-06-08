@@ -1,0 +1,41 @@
+# ninja log v5
+20	813	7079081619652691	FinalProject_autogen/timestamp	1423310671386c37
+20	813	7079081619652691	FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+1472	4307	7077058797345088	CMakeFiles/FinalProject.dir/FinalProject_autogen/mocs_compilation.cpp.obj	12cfab21323290f2
+6814	8408	7079081695559349	FinalProject.exe	56efb62d176032fd
+20	813	7079081619652691	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/timestamp	1423310671386c37
+20	813	7079081619652691	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+827	6814	7079081679653075	CMakeFiles/FinalProject.dir/widget.cpp.obj	200179cdacf831
+380	2284	7077132104781635	CMakeFiles/FinalProject.dir/main.cpp.obj	e8983e0b12d11233
+601	707	7077119086941851	CMakeFiles/cd.rc.dir/cd.rc_autogen/mocs_compilation.cpp.obj	b8616690ac66f997
+4	7894	7079083675171630	build.ninja	c47c606a0e3cd680
+16	268	7077119081677635	cd.rc_autogen/timestamp	85a3d8dab807a4ac
+16	268	7077119081677635	cd.rc_autogen/mocs_compilation.cpp	85a3d8dab807a4ac
+16	268	7077119081677635	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/cd.rc_autogen/timestamp	85a3d8dab807a4ac
+16	268	7077119081677635	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/cd.rc_autogen/mocs_compilation.cpp	85a3d8dab807a4ac
+18	218	7077637843546120	cd_autogen/timestamp	ffdd1fa509def797
+18	218	7077637843546120	cd_autogen/mocs_compilation.cpp	ffdd1fa509def797
+18	218	7077637843546120	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/cd_autogen/timestamp	ffdd1fa509def797
+226	335	7077637844712919	CMakeFiles/cd.dir/cd_autogen/mocs_compilation.cpp.obj	93797d03530ca3d0
+18	218	7077637843546120	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/cd_autogen/mocs_compilation.cpp	ffdd1fa509def797
+21	95	7077120032322867	CMakeFiles/cd.dir/cd.rc.obj	bc743572ba389a28
+6	620	7079083677824831	FinalProject_autogen/timestamp	1423310671386c37
+6	620	7079083677824831	FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+6	620	7079083677824831	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/timestamp	1423310671386c37
+6	620	7079083677824831	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+649	992	7079083681544559	CMakeFiles/FinalProject.dir/SongException.cpp.obj	83982dfd6bc506d5
+645	1645	7079083688069080	CMakeFiles/FinalProject.dir/Song.cpp.obj	b83c27dc8465b058
+636	1997	7079083691599637	CMakeFiles/FinalProject.dir/SongController.cpp.obj	4a3cbbf2120f15bd
+633	2021	7079083691829024	CMakeFiles/FinalProject.dir/Repository.cpp.obj	ec86b3593ee807be
+641	2156	7079083693195870	CMakeFiles/FinalProject.dir/FileRepository.cpp.obj	258eb68ae452a12c
+2156	3225	7079083703813836	FinalProject.exe	5721e1e5a224df7b
+15	301	7079086690559367	FinalProject_autogen/timestamp	1423310671386c37
+15	301	7079086690559367	FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+15	301	7079086690559367	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/timestamp	1423310671386c37
+15	301	7079086690559367	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+40	419	7079101016508822	FinalProject_autogen/timestamp	1423310671386c37
+40	419	7079101016508822	FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+40	419	7079101016508822	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/timestamp	1423310671386c37
+40	419	7079101016508822	D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/FinalProject_autogen/mocs_compilation.cpp	1423310671386c37
+442	1555	7079101027858469	CMakeFiles/FinalProject.dir/Repository.cpp.obj	ec86b3593ee807be
+437	3411	7079101046428807	CMakeFiles/FinalProject.dir/main.cpp.obj	e8983e0b12d11233

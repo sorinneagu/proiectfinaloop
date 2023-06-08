@@ -1,0 +1,9 @@
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/FinalProject.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/FinalProject_autogen_timestamp_deps.dir
+D:/Sorin/FMI/Anul 1/Semestrul 2/OOP/build-FinalProject-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/FinalProject_autogen.dir
